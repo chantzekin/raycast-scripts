@@ -5,7 +5,7 @@
 # @raycast.title System Activity
 # @raycast.mode inline
 # @raycast.refreshTime 5s
-# @raycast.packagename Dashboard
+# @raycast.packageName Dashboard
 
 # Optional parameters:
 # @raycast.icon 📈
